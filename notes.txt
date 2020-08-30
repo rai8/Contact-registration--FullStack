@@ -1,0 +1,3 @@
+Body Parser is Node.js body parsing middleware. 
+Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+body-parser helps to parse the request and create the req.body object that we will need to access in our routes.
